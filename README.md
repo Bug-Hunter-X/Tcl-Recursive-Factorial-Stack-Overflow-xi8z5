@@ -1,0 +1,1 @@
+This repository demonstrates a common error in recursive Tcl functions: stack overflow. The `bug.tcl` file contains a recursive factorial function that will crash for larger inputs.  `bugSolution.tcl` provides an iterative solution that avoids this problem.
